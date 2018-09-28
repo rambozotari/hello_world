@@ -1,3 +1,5 @@
+#look at me! 
+
 fruit_basket = ('Apple','Orange','Grapes')
 
 guess = raw_input('Guess a Fruit!\n')
